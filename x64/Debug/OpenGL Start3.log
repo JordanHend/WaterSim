@@ -1,0 +1,20 @@
+﻿  Main.cpp
+c:\users\jordan\documents\visual studio 2015\projects\opengl start3\opengl start3\model\modeltracker.h(6): warning C4091: 'extern ': ignored on left of 'Model' when no variable is declared
+c:\users\jordan\documents\visual studio 2015\projects\clothsim\clothsim\utility\common.h(18): warning C4005: 'PI': macro redefinition
+  c:\users\jordan\documents\visual studio 2015\projects\clothsim\clothsim\utility\glcamera.h(11): note: see previous definition of 'PI'
+c:\users\jordan\documents\visual studio 2015\projects\opengl start3\opengl start3\model\model.h(40): warning C4099: 'Texture': type name first seen using 'struct' now seen using 'class'
+  c:\users\jordan\documents\visual studio 2015\projects\opengl start3\opengl start3\model\mesh.h(51): note: see declaration of 'Texture'
+c:\users\jordan\documents\visual studio 2015\projects\opengl start3\opengl start3\model\model.h(42): warning C4099: 'Vertex': type name first seen using 'struct' now seen using 'class'
+  c:\users\jordan\documents\visual studio 2015\projects\opengl start3\opengl start3\model\mesh.h(28): note: see declaration of 'Vertex'
+c:\users\jordan\documents\visual studio 2015\projects\opengl start3\opengl start3\shadow.h(22): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\jordan\documents\visual studio 2015\projects\opengl start3\opengl start3\shadow.h(27): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\jordan\documents\visual studio 2015\projects\opengl start3\opengl start3\shadow.h(30): warning C4806: '==': unsafe operation: no value of type 'bool' promoted to type 'int' can equal the given constant
+c:\users\jordan\documents\visual studio 2015\projects\opengl start3\opengl start3\main.cpp(161): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\jordan\documents\visual studio 2015\projects\opengl start3\opengl start3\main.cpp(170): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\jordan\documents\visual studio 2015\projects\opengl start3\opengl start3\main.cpp(255): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+c:\users\jordan\documents\visual studio 2015\projects\opengl start3\opengl start3\main.cpp(281): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\jordan\documents\visual studio 2015\projects\opengl start3\opengl start3\main.cpp(283): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\jordan\documents\visual studio 2015\projects\opengl start3\opengl start3\main.cpp(353): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\jordan\documents\visual studio 2015\projects\opengl start3\opengl start3\main.cpp(354): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  OpenGL Start3.vcxproj -> C:\Users\Jordan\Documents\Visual Studio 2015\Projects\OpenGL Start3\x64\Debug\OpenGL Start3.exe
+  OpenGL Start3.vcxproj -> C:\Users\Jordan\Documents\Visual Studio 2015\Projects\OpenGL Start3\x64\Debug\OpenGL Start3.pdb (Partial PDB)

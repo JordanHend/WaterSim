@@ -1,0 +1,24 @@
+﻿  Main.cpp
+c:\users\jordan\documents\visual studio 2015\projects\opengl start3\opengl start3\main.cpp(134): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\jordan\documents\visual studio 2015\projects\opengl start3\opengl start3\main.cpp(154): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\jordan\documents\visual studio 2015\projects\opengl start3\opengl start3\main.cpp(155): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\jordan\documents\visual studio 2015\projects\opengl start3\opengl start3\main.cpp(166): warning C4018: '<': signed/unsigned mismatch
+c:\users\jordan\documents\visual studio 2015\projects\opengl start3\opengl start3\main.cpp(168): warning C4018: '<': signed/unsigned mismatch
+c:\users\jordan\documents\visual studio 2015\projects\opengl start3\opengl start3\main.cpp(216): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\jordan\documents\visual studio 2015\projects\opengl start3\opengl start3\main.cpp(217): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+Main.obj : error LNK2019: unresolved external symbol _glfwInit referenced in function "int __cdecl initOpenGL(void)" (?initOpenGL@@YAHXZ)
+Main.obj : error LNK2019: unresolved external symbol _glfwWindowHint referenced in function "int __cdecl initOpenGL(void)" (?initOpenGL@@YAHXZ)
+Main.obj : error LNK2019: unresolved external symbol _glfwCreateWindow referenced in function "int __cdecl initOpenGL(void)" (?initOpenGL@@YAHXZ)
+Main.obj : error LNK2019: unresolved external symbol _glfwWindowShouldClose referenced in function _main
+Main.obj : error LNK2019: unresolved external symbol _glfwSetFramebufferSizeCallback referenced in function "int __cdecl initOpenGL(void)" (?initOpenGL@@YAHXZ)
+Main.obj : error LNK2019: unresolved external symbol _glfwPollEvents referenced in function _main
+Main.obj : error LNK2019: unresolved external symbol _glfwSetKeyCallback referenced in function "int __cdecl initOpenGL(void)" (?initOpenGL@@YAHXZ)
+Main.obj : error LNK2019: unresolved external symbol _glfwSetMouseButtonCallback referenced in function "int __cdecl initOpenGL(void)" (?initOpenGL@@YAHXZ)
+Main.obj : error LNK2019: unresolved external symbol _glfwSetCursorPosCallback referenced in function "int __cdecl initOpenGL(void)" (?initOpenGL@@YAHXZ)
+Main.obj : error LNK2019: unresolved external symbol _glfwSetScrollCallback referenced in function "int __cdecl initOpenGL(void)" (?initOpenGL@@YAHXZ)
+Main.obj : error LNK2019: unresolved external symbol _glfwMakeContextCurrent referenced in function "int __cdecl initOpenGL(void)" (?initOpenGL@@YAHXZ)
+Main.obj : error LNK2019: unresolved external symbol _glfwSwapBuffers referenced in function _main
+Main.obj : error LNK2019: unresolved external symbol _glfwSwapInterval referenced in function "int __cdecl initOpenGL(void)" (?initOpenGL@@YAHXZ)
+C:\Users\Jordan\Documents\C++ Libraries\glfw-3.2.1.bin.WIN64\glfw-3.2.1.bin.WIN64\lib-vc2015\glfw3.lib : warning LNK4272: library machine type 'x64' conflicts with target machine type 'X86'
+C:\Users\Jordan\Assimp\lib\x64\assimpd.lib : warning LNK4272: library machine type 'x64' conflicts with target machine type 'X86'
+C:\Users\Jordan\Documents\Visual Studio 2015\Projects\OpenGL Start3\Debug\OpenGL Start3.exe : fatal error LNK1120: 13 unresolved externals

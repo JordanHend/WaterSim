@@ -1,0 +1,17 @@
+﻿  Camera.cpp
+  Main.cpp
+Main.cpp(140): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+Main.cpp(144): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+Main.cpp(160): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+Main.cpp(161): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+Main.cpp(172): warning C4018: '<': signed/unsigned mismatch
+Main.cpp(174): warning C4018: '<': signed/unsigned mismatch
+Main.cpp(222): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+Main.cpp(223): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Shader.cpp
+  glad.c
+  Generating code
+  All 718 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  OpenGL Start3.vcxproj -> C:\Users\Jordan\Documents\Visual Studio 2015\Projects\OpenGL Start3\x64\Release\OpenGL Start3.exe
+  OpenGL Start3.vcxproj -> C:\Users\Jordan\Documents\Visual Studio 2015\Projects\OpenGL Start3\x64\Release\OpenGL Start3.pdb (Full PDB)
